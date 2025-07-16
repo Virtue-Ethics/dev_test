@@ -1,4 +1,5 @@
 # Nomey Web App
+
 This is the official repository for the Nomey web app, built on the T3 Stack with custom extensions.
 
 ## Tech Stack
@@ -12,7 +13,7 @@ This is the official repository for the Nomey web app, built on the T3 Stack wit
 - [tolgee](https://tolgee.io/) - Translation Management
 - [Meilisearch](https://www.meilisearch.com/) - Full-text search
 - [Upstash](https://upstash.com/) Next compatible redis
-- [Qstash](https://upstash.com/docs/qstash) Next compatible queue handling 
+- [Qstash](https://upstash.com/docs/qstash) Next compatible queue handling
 - [Vitest](https://vitest.dev/) - Testing Framework
 
 ## Testing
@@ -54,4 +55,3 @@ npm run dev
 ```
 
 > ⚠️ **Warning:** The T3 stack hard-enforces environment variables to provide type-safety. The project will not build without all environment variables in place. Contact a dev to get their variables to quickly get yourself up and running.
-
